@@ -2,6 +2,19 @@
 
 DES Encryption Verilog
 
+use iverilog:
+
+```bash
+make ivlsim_run
+```
+
+use vcs:
+
+```bash
+make simv_run
+```
+
+
 ```bash
 make verdi
 ```
