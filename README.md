@@ -2,7 +2,7 @@
 
 本科的时候写的 `_(:з」∠)_`
 
-**这个项目现在主要用来测试VCS+Verdi环境是否可用**  👻
+**这个项目现在主要用来测试VCS+Verdi环境是否可用**  
 
 DES Encryption Verilog
 
